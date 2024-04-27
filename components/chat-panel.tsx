@@ -36,9 +36,9 @@ export function ChatPanel({
 
   const exampleMessages = [
     {
-      heading: 'What are the',
-      subheading: 'trending memecoins today?',
-      message: `What are the trending memecoins today?`
+      heading: 'I want to buy a stanley mug',
+      subheading: 'Gimme mug!',
+      message: 'I want to buy a stanley mug',
     },
     {
       heading: 'What is the price of',
